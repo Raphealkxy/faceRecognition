@@ -1,2 +1,3 @@
 # faceRecognition
-the original code for face detection
+人脸识别源码
+====
