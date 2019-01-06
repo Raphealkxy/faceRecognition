@@ -46,3 +46,15 @@ public static void main(String[] args){}
 public static void main(String[] args){}
 public static void main(String[] args){}
 ```
+
+# 表格
+
+姓名 | 技能 | 排行
+---|:--:|---:
+刘备|关羽|张飞
+
+姓名|技能|排行
+--|:--:|--:
+刘备|哭|大哥
+关羽|打|二哥
+张飞|骂|三弟
